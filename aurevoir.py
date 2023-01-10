@@ -1,0 +1,2 @@
+def aurevoir():
+    return "Aurevoir"
