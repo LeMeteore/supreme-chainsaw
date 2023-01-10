@@ -1,2 +1,2 @@
 def bonjourn2():
-    return "Bonjour"
+    return "Bonjour le monde."
