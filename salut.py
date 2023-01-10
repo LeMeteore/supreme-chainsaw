@@ -1,0 +1,2 @@
+def salut():
+    return "Salut"
