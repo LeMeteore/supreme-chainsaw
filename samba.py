@@ -1,2 +1,2 @@
 def samba():
-return "bonjour a tous"
+	return "bonjour a tous"
