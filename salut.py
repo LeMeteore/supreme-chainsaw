@@ -1,2 +1,2 @@
-def salut():
-    return "Salut"
+def salut(name):
+    return ("Salut", {name})
