@@ -1,0 +1,23 @@
+Projet de mise en place d'une plateforme de vente d'arachide.
+il m'est venu en tête qu'il serait capitale d'épauler les cultivateur locaux sénégalais qui, après chaque récolte, vendent leurs 
+productions aux privés à des  prix dérisoires ne leur permettant de subvenir à leurs besoins malgré les souffrances endurées
+dans les champs
+
+il s'agira de permettre à tout utilisateur, notamment les cultivateurs,
+ de pouvoir vendre et d'acheter  de l'arachide indépendamment de sa localisation.
+*A l'accueill on aura
+-- une barre de recherche
+-- un bouton inscription 
+-- un bouton connexion 
+-- un bouton acheter et un bouton
+-- une liste d'annonces des vendeurs
+Pour introduire son produit l'utilisateur doit:
+-- la variété qu'il vent
+-- la quantité à vendre
+-- le prix du kilogramme
+-- Sa localisation précise
+-- son numéro de téléphone 
+-- etc 
+
+J'espère que je me suis fait comprendre et les propositions sont ouvertes à tous.
+Merci bien!
